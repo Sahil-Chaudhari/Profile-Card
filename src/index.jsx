@@ -190,6 +190,14 @@ function App() {
       <h3>WORK EXPERIENCE:</h3>
 <div className="experience">
   <div className="experience-item">
+    <h4>Web Developer Consultant @  Impact DigiTech Solutions Pvt. Ltd.</h4>
+    <p><strong>May 2024 – Present | Pune, India</strong></p>
+    <ul>
+      <li>Developed and maintained dynamic web applications using React, Node.js, Express.js, and MongoDB.</li>
+      <li>Collaborated with the team to build user-friendly features and improve performance across client projects.</li>
+    </ul>
+  </div>
+  <div className="experience-item">
     <h4>Data Science Engineer @ Piyush IT Services (Consulting startup)</h4>
     <p><strong>Jan 2024 – May 2024 | Pune, India</strong></p>
     <ul>
